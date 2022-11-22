@@ -25,5 +25,5 @@
 
 [<img align="center" alt="antonio-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">](https://www.linkedin.com/in/marcioribr/)
 [<img align="center" alt="antonio-instagram" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="max-width:100%;">](https://www.instagram.com/cinhozin)
-
-![Snake animation](https://github.com/antonioribr/antonioribr/blob/output/github-contribution-grid-snake.svg)
+<!--
+![Snake animation](https://github.com/antonioribr/antonioribr/blob/output/github-contribution-grid-snake.svg) -->
